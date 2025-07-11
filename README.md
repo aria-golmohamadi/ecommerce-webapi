@@ -11,7 +11,7 @@ It supports both **cookie-based** and **JWT** authentication schemes, providing 
 
 You can view the live showcase of this project here:
 
-[ecommerce.ariagolmohamadi.com](https://ecommerce.ariagolmohamadi.com)
+[ecommerce.ariagolmohamadi.com/scalar/v1](https://ecommerce.ariagolmohamadi.com/scalar/v1)
 
 
 ## Project Status
